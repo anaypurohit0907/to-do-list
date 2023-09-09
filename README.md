@@ -1,6 +1,6 @@
 # A simple To-Do list web app made with react.js.
 
-i have used npx create-react-app to start the project
+
 
 
 ## here is what it looks like:
